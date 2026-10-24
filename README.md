@@ -24,7 +24,6 @@ O objetivo foi colocar em prática conceitos de desenvolvimento web, principalme
 2. Abra a pasta do projeto.
 3. Execute o arquivo `index.html` no navegador.
 
-Não é necessário instalar dependências.
 
 ## Objetivo do projeto
 
